@@ -1,1 +1,3 @@
-print("hello igorzinho!")
+print("Oi Karina!")
+
+print(1+1)
